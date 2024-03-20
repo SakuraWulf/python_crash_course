@@ -10,6 +10,6 @@ for pizza in pizzas:
 print("I grew up in NYC so naturally, I love NY style pizza.")
 print("I haven't had an authentic margerita from Italy but from what i've seen they look amazing and the good ones i've had in the states have been pretty good.")
 print("When I was working near Chicago, I had a chance to visit one of their popular joints, \"Giordano\'s.\"")
-print("I'm love food so while these styles of pizza came to mind first, I wouldn't mind any kind.")
+print("I love food so while these styles of pizza came to mind first, I wouldn't mind any kind.")
 
 # I wrote my first for loop today without having to look anything up. Fuck yes! Iteration!
