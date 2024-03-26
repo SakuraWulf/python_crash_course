@@ -45,7 +45,7 @@ for food in buffet_foods:
 # using the terminal, but I got the jist of it.
 	
 # Overall, the code looks much neater and i'm able to have the 
-# terminal open to the right side of the code for code output and to 
+# VSC terminal open to the right side of the code for code output and to 
 # push updates to Github without having a seperate CMD window open.
 	
 # Use 'git status' to check the status of your repository vs local.
