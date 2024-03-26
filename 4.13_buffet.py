@@ -6,12 +6,12 @@
 buffet_foods = ('fried rice', 'chicken teriyaki', 'eggrolls', 'wonton soup', 'mongolian beef')
 print("\nOriginal buffet foods: ")
 for food in buffet_foods:
-  print(food.title())
+	print(food.title())
 
 # Type error, since tuples don't support reassignment: buffet_foods[0] = 'white_rice'
 
 buffet_foods = ('white rice', 'chicken teriyaki', 'eggrolls', 'eggdrop soup', 'mongolian beef')
 print("\nModified buffet foods: ")
 for food in buffet_foods:
-  print(food.title())
+	print(food.title())
 
