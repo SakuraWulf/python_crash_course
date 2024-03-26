@@ -48,5 +48,10 @@ for food in buffet_foods:
 # terminal open to the right side of the code for code output and to 
 # push updates to Github without having a seperate CMD window open.
 	
+# Use 'git status' to check the status of your repository vs local.
+# Use 'git add <file.name> to stage the file for commit.
+# Use 'git commit -m <message> to commit the change.
+# Use 'git push origin main' to push the file to the main branch.
+	
 # I can't wait to be done with the dictionaries chapter so I can get 
 # into OOP with Python!
