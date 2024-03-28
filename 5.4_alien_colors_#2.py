@@ -10,3 +10,13 @@ just earned 10 points.
 
 Write one version of this program that runs the if block and another
 that runs the else block."""
+
+alien_color = 'green'
+if alien_color == 'green':
+    print("You have gained 10 points!")
+else:
+    print("You have earned 5 points!")
+
+# I like 5 points for yellow and 10 for green so that's what I did.
+# I don't see the point in writing seperate programs for the if and else
+# blocks so I didn't do that.
