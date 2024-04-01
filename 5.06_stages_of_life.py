@@ -21,3 +21,17 @@ If the person is age 65 or older, print a message that the person is an
 elder.
 """
 
+age = 100
+
+if age < 2:
+    print('Yous a baby.')
+elif age == 2 or age < 4:
+    print('Yous a toddler.')
+elif age == 4 or age < 13:
+    print('Yous a kid.')
+elif age == 13 or age < 20:
+    print('Yous a teenager.')
+elif age == 20 or age < 65:
+    print('Yous an adult.')
+else:
+    print('Yous an elder.')
