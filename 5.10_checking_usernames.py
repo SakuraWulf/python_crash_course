@@ -17,7 +17,7 @@ Make sure your comparison is case insensitive. If 'John' has been used,
 of current_users containing the lowercase versions of all existing 
 users.)
 """
-current_users = ['alex'
+current_users = ['alex',
                  'barry',
                  'Christine',
                  'dana',
