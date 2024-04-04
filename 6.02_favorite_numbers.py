@@ -17,5 +17,5 @@ favorite_numbers = {'alice': 7,
 # <key> <value> positionally, which you can rename. The .items() method
 # makes this possible
 for name, number in favorite_numbers.items():
-    print(f"{name.title()}'s favorite number is {number}.")
+    print(f'{name.title()}'s favorite number is {number}.')
     
