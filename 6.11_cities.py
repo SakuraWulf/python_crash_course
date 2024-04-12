@@ -28,6 +28,8 @@ cities = {
         }
 }
 
+# Creating variables within the for loop makes for cleaner print 
+# statements
 for city, city_info in cities.items():
     print(f'\nCity: {city.title()}')
     country = city_info['country']
